@@ -25,6 +25,6 @@ One system in three parts — rules, then tiers, then a paper trail:
 
 ## Currently
 
-Building ProjectGO, buliding AI workflow
+Building ProjectGO, building AI workflow
 
 Based TPE, HKG
