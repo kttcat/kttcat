@@ -1,6 +1,6 @@
 # kttcat
 
-Kelvin Tang — 正在做 ProjectGO（香港 3D 開放世界），以及一套從錯誤中學來的 AI 工作流程。
+正在做 ProjectGO（香港 3D 開放世界），以及一套從錯誤中學來的 AI 工作流程。
 
 English 版本請見 [README.md](README.md)。
 
@@ -22,9 +22,5 @@ English 版本請見 [README.md](README.md)。
 ## 🎨 品牌圖示
 
 [brand-icons](https://github.com/kttcat/brand-icons) — kttc. 和 1uyuu 的品牌圖示。
-
-## 現在做什麼
-
-做 ProjectGO，同時申請台灣研究所（2027 入學）。
 
 Based TPE, HKG
