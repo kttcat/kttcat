@@ -1,6 +1,6 @@
 # kttcat
 
-Kelvin Tang — building ProjectGO, a 3D open world of Hong Kong, and a set of AI workflow skills learned the hard way.
+Kttc — building ProjectGO, a 3D open world of Hong Kong, and a set of AI workflow skills learned the hard way.
 
 Read this in [繁體中文](README.zh-TW.md).
 
@@ -25,6 +25,6 @@ One system in three parts — rules, then tiers, then a paper trail:
 
 ## Currently
 
-Building ProjectGO, and applying to graduate programmes in Taiwan (2027 entry).
+Building ProjectGO, buliding AI workflow
 
 Based TPE, HKG
